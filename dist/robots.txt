@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://agentlane.me/sitemap.xml
+Host: agentlane.me

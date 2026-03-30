@@ -1,0 +1,36 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" rx="32" fill="#08111F"/>
+  <circle cx="147" cy="118" r="170" fill="#41D9D0" fill-opacity="0.12"/>
+  <circle cx="1090" cy="512" r="190" fill="#FF8663" fill-opacity="0.12"/>
+  <circle cx="988" cy="96" r="122" fill="#F3BE63" fill-opacity="0.12"/>
+  <rect x="70" y="68" width="1060" height="494" rx="28" fill="url(#panel)" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  <rect x="112" y="116" width="108" height="108" rx="24" fill="url(#badge)"/>
+  <path d="M154 150C154 132.327 168.327 118 186 118V118C203.673 118 218 132.327 218 150V150C218 167.673 203.673 182 186 182V182C168.327 182 154 167.673 154 150V150Z" stroke="#08111F" stroke-width="10"/>
+  <path d="M186 186L216 216" stroke="#08111F" stroke-width="10" stroke-linecap="round"/>
+  <path d="M216 186L186 216" stroke="#08111F" stroke-width="10" stroke-linecap="round"/>
+  <text x="262" y="158" fill="#FDF7EC" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="3">THE NEXT TOKEN SOCIETY</text>
+  <text x="262" y="196" fill="#F3BE63" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4">UNIVERSITY OF TECHNOLOGY NUREMBERG</text>
+  <text x="112" y="306" fill="#FFF8EF" font-family="Arial, sans-serif" font-size="64" font-weight="700">
+    Build efficient AI systems
+  </text>
+  <text x="112" y="382" fill="#FFF8EF" font-family="Arial, sans-serif" font-size="64" font-weight="700">
+    with UTN students.
+  </text>
+  <text x="112" y="446" fill="#D6D0C2" font-family="Arial, sans-serif" font-size="28">
+    Low-bit LLMs, quantization, PEFT, alignment, VLMs, and future project space.
+  </text>
+  <rect x="112" y="486" width="356" height="46" rx="23" fill="#132339" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  <text x="136" y="516" fill="#41D9D0" font-family="Arial, sans-serif" font-size="20" font-weight="700">
+    Open only to UTN students
+  </text>
+  <defs>
+    <linearGradient id="panel" x1="120" y1="84" x2="1126" y2="562" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0E1C31" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#0A1424" stop-opacity="0.92"/>
+    </linearGradient>
+    <linearGradient id="badge" x1="112" y1="116" x2="220" y2="224" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#41D9D0"/>
+      <stop offset="1" stop-color="#FF8663"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,7 @@
+/index.html / 301
+/generic.html /work 301
+/elements.html /projects 301
+/join.html https://forms.gle/hHRGkTHk8i6zK6ma6 302
+/work /generic.html 200
+/projects /elements.html 200
+/join https://forms.gle/hHRGkTHk8i6zK6ma6 302

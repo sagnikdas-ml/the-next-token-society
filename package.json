@@ -1,0 +1,10 @@
+{
+  "name": "the-next-token-society",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "npm run build && npx wrangler@latest dev",
+    "deploy": "npm run build && npx wrangler@latest deploy"
+  }
+}
